@@ -20,7 +20,7 @@ let package = Package(
             branch: "main"
         ),
         .package(
-            url: "https://github.com/rryam/VecturaKit.git",
+            url: "https://github.com/antmikinka/VecturaKit.git",
             branch: "main"
         ),
     ],
